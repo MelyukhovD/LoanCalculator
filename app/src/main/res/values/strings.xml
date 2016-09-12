@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="results">Results</string>
+    <string name="monthly">Monthly payment:</string>
+    <string name="totalPay">Total Payment:</string>
+    <string name="totalInterest">Total Interest: </string>
+    <string name="monthlyRes"></string>
+    <string name="totalPayRes"></string>
+    <string name="totalInterestRes"></string>
+
+</resources>
